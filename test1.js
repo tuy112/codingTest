@@ -18,3 +18,5 @@ console.log(price);
 var name = "jstol";
 const product = "table";
 let price = 500;
+
+console.log("=============================================================");
